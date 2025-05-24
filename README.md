@@ -1,2 +1,3 @@
 # Sistema-de-control-de-reciclaje
-Integrantes:Daniel Estiven Canchon Roa and Luis Alejandro Neira Rivera
+Integrantes: Daniel Estiven Canchon Roa 
+             Luis Alejandro Neira Rivera
